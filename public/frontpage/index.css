@@ -1,0 +1,16 @@
+body {
+    background-color: green;
+}
+
+#title {
+    margin: auto;
+}
+
+#title-text {
+    font-size: 3em;
+}
+
+
+.parag{
+    font-size: 2em;
+}

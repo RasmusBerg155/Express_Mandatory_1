@@ -1,0 +1,1 @@
+console.log('Welcome to the console inspect, so far so good!')
