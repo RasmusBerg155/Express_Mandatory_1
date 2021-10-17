@@ -1,1 +1,1 @@
-console.log('Welcome to the console inspect, so far so good!')
+console.log('Welcome to the console inspect, happy to see you have found me!')
